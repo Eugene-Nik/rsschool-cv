@@ -44,3 +44,18 @@ function myFunction() {
 ```
 
 ---
+
+## Work experience
+None :/
+
+---
+
+## Education
+
+1. [HTML For beginners](https://ru.code-basics.com/laguages/html)
+
+2. [CSS For beginners](https://ru.code-basics.com/languages/css)
+
+3. [Freelancer Life Style (HTML,CSS, js)](https://www.youtube.com/c/FreelancerLifeStyle)
+
+---
