@@ -1,0 +1,83 @@
+body {
+  margin: 0px auto;
+  max-width: 1024px;
+  background-color: white;
+  background-size: cover;
+  background-image: url(bg.jpg);
+  font-family: "Otomanopee One", sans-serif;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: border-box;
+}
+
+.containers {
+  font-size: 16px;
+  background-color: rgb(255, 255, 255);
+  margin: 30px;
+  border-radius: 10px;
+}
+
+.header {
+  padding-left: 25px;
+  padding-right: 25px;
+  height: 150px;
+  background-color: rgb(118, 181, 202);
+  border-radius: 10px;
+}
+
+.name {
+  position: relative;
+  top: 50px;
+  font-size: 34px;
+}
+
+.avatar {
+  height: 120px;
+  border-radius: 75%;
+  position: relative;
+  bottom: 35px;
+  left: 80%;
+}
+
+.main {
+  padding-left: 25px;
+  padding-right: 25px;
+}
+
+.Contacts {
+  padding-right: 100px;
+}
+
+.About {
+  padding-top: 0.5px;
+}
+
+.footer {
+  padding-left: 25px;
+  padding-right: 25px;
+  height: 100px;
+  background-color: rgb(118, 181, 202);
+  border-radius: 10px;
+}
+
+.rs {
+  width: 100px;
+}
+
+.git {
+  width: 100px;
+}
+
+.footer_content {
+  position: relative;
+  left: 300px;
+  top: 30px;
+  width: max-content;
+}
+
+.time {
+  padding: 0px 50px 0px 50px;
+}
